@@ -2,12 +2,9 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "Domino Royale (debug)",
+      "name": "Domino Royale Android",
       "request": "launch",
-      "type": "dart",
-      "toolArgs": [
-        "--dart-define=USE_FIREBASE=false"
-      ]
+      "type": "dart"
     }
   ]
 }
